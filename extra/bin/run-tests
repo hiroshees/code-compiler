@@ -1,7 +1,6 @@
 #!/bin/bash
 
-##[[ ! -v IMAGE ]] && IMAGE=judge0/compilers:latest
-[[ ! -v IMAGE ]] && IMAGE=hiroshees/compilers:latest
+[[ ! -v IMAGE ]] && IMAGE=hiroshees/code-compiler:latest
 
 cd tests
 echo "Running tests on image $IMAGE"
