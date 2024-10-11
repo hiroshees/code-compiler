@@ -18,4 +18,4 @@ COPY docker-entrypoint.sh /
 ENTRYPOINT ["/docker-entrypoint.sh"]
 
 LABEL maintainer="Hiroshi Fujiwara <hiroshi.829f@gmail.com>"
-LABEL version="0.5"
+LABEL version="0.6"

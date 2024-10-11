@@ -11,7 +11,7 @@
 ## ビルド
 ```
 cd extra
-docker build -t hiroshees/compilers .
+docker build -t hiroshees/code-compiler .
 ```
 
 ## run test
