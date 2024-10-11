@@ -1,8 +1,8 @@
 # Compilers
 
 ## 言語
-* nodejs 16
-* python 3.10.7
+* nodejs 20.18.0
+* python 3.13.0
 
 ## 言語の追加
 * extra/Dockerfileに言語のインストール関連の設定を追加
